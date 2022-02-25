@@ -1,0 +1,11 @@
+.main-div mat-card {
+    padding: 0px;
+}
+.login-form {
+    padding: 20px;
+}
+.title-center {
+    /* flex: 1 1 auto;
+    text-align: center; */
+    margin:  0 auto;
+}

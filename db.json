@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "miii",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": "20500",
+      "comment": "good",
+      "date": "2022-02-01T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "samsang",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": "25000",
+      "comment": "good",
+      "date": "2022-02-01T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "sssss",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": "25000",
+      "comment": "good",
+      "date": "2022-02-01T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "madhu",
+      "category": "vegitables",
+      "freshness": "Brand New",
+      "price": "5555",
+      "comment": "55555",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Bana",
+      "category": "vegitables",
+      "freshness": "Brand New",
+      "price": "67",
+      "comment": "ggg",
+      "date": "2022-02-14T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "jjjjj",
+      "category": "vegitables",
+      "freshness": "Brand New",
+      "price": "oooo",
+      "comment": "xxx",
+      "date": "2022-02-09T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
